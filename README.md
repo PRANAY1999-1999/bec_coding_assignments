@@ -42,4 +42,4 @@ eps file converted to pdf
 
 gnu plot was not giving results so i plotted with python code
 
-`python plot.py 'data/full_data.tsv'`
+`python heatmap.py 'data/full_data.tsv'`
